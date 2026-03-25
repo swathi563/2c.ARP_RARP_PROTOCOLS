@@ -91,7 +91,7 @@ while True:
 
 ## OUTPUT - ARP:
 
-![Uploading 565417800-13e65c20-e577-406c-89b4-3ca6690a7dae.png…]()
+<img width="1919" height="1079" alt="565417800-13e65c20-e577-406c-89b4-3ca6690a7dae" src="https://github.com/user-attachments/assets/c4928b38-9ea8-4bdb-832d-9acaf80c1362" />
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
