@@ -53,6 +53,7 @@ while True:
 
 ## OUPUT - ARP :
 <img width="1919" height="1079" alt="565417241-e847dd91-6cb1-4c12-9413-fd7c4150e649" src="https://github.com/user-attachments/assets/95eb2758-1703-43de-94ba-26da445cf222" />
+
 ## PROGRAM - ARP :
 client.py
 ```
@@ -87,7 +88,8 @@ while True:
     ip = address.get(mac, "Not Found")
     c.send(ip.encode())
 ```
-## RESULT - ARP:
+
+## OUTPUT - ARP:
 
 ![Uploading 565417800-13e65c20-e577-406c-89b4-3ca6690a7dae.png…]()
 
